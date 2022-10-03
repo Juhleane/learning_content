@@ -31,12 +31,10 @@ teacher_exclusive: false
 ---
 ## Wat ga je doen?
 
-In dit leerpad ga je uitgedaagd worden om zelf een tekenrobot te bouwen en programmeren!
+In dit leerpad dagen we je uit om zelf een tekenrobot te bouwen en programmeren!
 
 ![](@youtube/https://www.youtube.com/embed/5zK8zEZL7rk)
 
-Voor je hiermee aan de slag kunt, zal je wel eerst enkele supertoffe opdrachten moeten uitvoeren om je een beter idee te geven over hoe je het moet aanpakken. 
-
-Deze opdrachten omvatten uitleg over robots, activiteiten zoals *'Programmeer eens een Mens'* en  programmeeroefeningen.
+Maar hoe begin je hieraan? De volgende supertoffe opdrachten helpen je op weg. We ontdekken wat een robot is, hoe je mensen kunt programmeren, en tot slot hoe je een robot maakt.
 
 Veel plezier! 
