@@ -34,11 +34,11 @@ teacher_exclusive: true
 ## 10 - 15 minuten in de klas
 
 ### Wat gebeurt er in de klas?
-In dit onderdeel wordt er kort wat context gegeven omtrent de geschiedenis en bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
+In het eerste onderdeel schetsen we kort de geschiedenis en geven we context bij de bouw van robots. Dit schept inzicht bij de leerlingen over het nut, de bouw en de werking van robots.
 
 ## Voorbereiding
 ### Materiaal
 
-[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots (wordt meegeleverd)
+[Foto's](embed/WeGoSTEMrobotfotos.pdf "Afbeeldingen Klasgesprek") van verschillende robots. Je vindt deze foto's ook in het leermateriaal dat je in de bib kunt afhalen.
 
 ![](@pdf/embed/WeGoSTEMrobotfotos.pdf)
