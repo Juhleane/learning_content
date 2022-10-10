@@ -35,12 +35,24 @@ teacher_exclusive: true
 ## 10 - 15 minuten tijdens de les
 
 ### Wat gebeurt er in de klas?
-De leerlingen programmeren elkaar om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Hoe snel en nauwkeurig wordt de tekening voltooid?
+In dit deel van de les krijgen de leerlingen een opdracht. Ze zullen elkaar programmeren om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Zullen de leerlingen erin slagen om de tekening nauwkeurig te maken? En hoe snel voeren ze de opdracht uit?
+
 
 *Waarom deze oefening?*
 
-Leerlingen leren hoe ze een relatief moeilijk probleem kunnen oplossen door het op te splitsen in kleine stappen. Ze moeten heel precieze instructies geven en dit in de juiste volgorde. 
+Op het eerste gezicht lijkt dit een heel eenvoudige opdracht. Maar de leerlingen leren er veel van. Zo ontdekken ze hoe ze een relatief moeilijk probleem kunnen oplossen door het op te splitsen in kleine stappen. Bovendien leren ze hoe een computer communiceert. Een computer werkt pas goed wanneer je heel precieze instructies geeft, en in de juiste volgorde. 
+
+
+*Praktisch*
+
+* Kies één leerling die als programmeur de instructies zal geven aan de andere kinderen (“de computers”).
+* Geef de programmeur de eenvoudigste tekening. De computers mogen de tekening niet zien.
+* Laat de programmeur heldere instructies geven aan de computers.
+* Bespreek het resultaat. Wat ging er goed? Wat liep minder vlot? Zijn alle figuren even groot? Kon je de instructies op verschillende manieren uitvoeren?
+* Herhaal met nieuwe programmeurs en afbeeldingen.
+
 Aandachtspunt: Hou de tijd in de gaten!
+
 
 ## Voorbereiding
 ### Materiaal
