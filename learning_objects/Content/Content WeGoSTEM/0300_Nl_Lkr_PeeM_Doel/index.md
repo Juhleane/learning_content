@@ -40,7 +40,7 @@ teacher_exclusive: true
 In dit deel van de les krijgen de leerlingen een opdracht. Ze zullen elkaar programmeren om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Zullen de leerlingen erin slagen om de tekening nauwkeurig te maken? En hoe snel voeren ze de opdracht uit?
 
 
-*Waarom deze oefening?*
+*Waarom deze opdracht?*
 
 Op het eerste gezicht lijkt dit een heel eenvoudige opdracht. Maar de leerlingen leren er veel van. Zo ontdekken ze hoe ze een relatief moeilijk probleem kunnen oplossen door het op te splitsen in kleine stappen. Bovendien leren ze hoe een computer communiceert. Een computer werkt pas goed wanneer je heel precieze instructies geeft, en in de juiste volgorde. 
 
