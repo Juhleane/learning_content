@@ -44,8 +44,10 @@ Als mens moeten we alles in kleine stappen aan de computer vertellen. Slaag je d
 #### Benodigdheden 
 Voor deze opdracht heb je enkel potlood en papier nodig.
 
+
 #### Vaardigheden
 Een robot doet alleen wat je programmeert. Je moet dus heel precieze instructies geven. Je leert een relatief moeilijk probleem op te lossen door het op te splitsen in kleine stappen.
+
 
 #### Opdracht
 * Kies één leerling als “programmeur”. De anderen zijn “robots”.
@@ -53,8 +55,3 @@ Een robot doet alleen wat je programmeert. Je moet dus heel precieze instructies
 * De programmeur beschrijft de tekening voor de klas en de robots tekenen deze na.
 * De robots mogen niet praten of vragen stellen tijdens het tekenproces!
 * Het is de bedoeling om te ervaren hoe snel en nauwkeurig de robots de tekening natekenen.
-
-#### Besluit
-Je ziet dat het niet altijd eenvoudig is om duidelijke instructies te geven. Als je een specifiek huis wil laten tekenen door een computer, is "Teken een huis" bijvoorbeeld veel te vaag voor de computer. Wat is de vorm van het huis? Hoe groot moet het huis zijn? Waar op mijn blad moet ik beginnen tekenen? Dat heb je zelf ontdekt tijdens de opdracht. Het was misschien wel frustrerend voor de robots dat ze geen vragen mochten stellen. Maar een echte robot kan dat natuurlijk ook niet uit zichzelf!
-
-Computers kunnen niet interpreteren. Ze voeren letterlijk iedere instructie uit die je ze geeft. Een programmeur moeten opdrachten dus opsplitsen in kleine, heldere stappen. Stappen die de computer kan uitvoeren. En uiteraard moet je de instructies zo helder mogelijk doorgeven aan de computer.
