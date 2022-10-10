@@ -35,6 +35,8 @@ teacher_exclusive: true
 ## 10 - 15 minuten tijdens de les
 
 ### Wat gebeurt er in de klas?
+*De opdracht*
+
 In dit deel van de les krijgen de leerlingen een opdracht. Ze zullen elkaar programmeren om een tekening te maken. Eén leerling is de ‘programmeur’ en geeft zorgvuldige instructies aan de andere leerlingen om een bepaalde tekening te reproduceren. De andere leerlingen zijn ‘de computer’. Zullen de leerlingen erin slagen om de tekening nauwkeurig te maken? En hoe snel voeren ze de opdracht uit?
 
 
