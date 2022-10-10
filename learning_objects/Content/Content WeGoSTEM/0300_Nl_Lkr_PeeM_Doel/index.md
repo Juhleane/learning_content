@@ -48,11 +48,9 @@ Op het eerste gezicht lijkt dit een heel eenvoudige opdracht. Maar de leerlingen
 * Kies één leerling die als programmeur de instructies zal geven aan de andere kinderen (“de computers”).
 * Geef de programmeur de eenvoudigste tekening. De computers mogen de tekening niet zien.
 * Laat de programmeur heldere instructies geven aan de computers.
-* Bespreek het resultaat:
-Wat ging er goed? Wat liep minder vlot? Zijn alle figuren even groot? Kon je de instructies op verschillende manieren uitvoeren?
+* Bespreek het resultaat: Wat ging er goed? Wat liep minder vlot? Zijn alle figuren even groot? Kon je de instructies op verschillende manieren uitvoeren?
 * Herhaal met nieuwe programmeurs en afbeeldingen.
-
-Aandachtspunt: Hou de tijd in de gaten!
+* Aandachtspunt: Hou de tijd in de gaten!
 
 
 *Besluit*
