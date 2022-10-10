@@ -54,6 +54,12 @@ Op het eerste gezicht lijkt dit een heel eenvoudige opdracht. Maar de leerlingen
 Aandachtspunt: Hou de tijd in de gaten!
 
 
+*Besluit*
+De leerlingen ervaren dat het niet altijd eenvoudig is om duidelijke instructies te geven. Als je een specifiek huis wil laten tekenen, is "Teken een huis" bijvoorbeeld veel te vaag voor de computer. Wat is de vorm van het huis? Hoe groot moet het huis zijn? Waar op mijn blad moet ik beginnen tekenen? Dat hebben ze zelf ontdekt tijdens de opdracht. Het was misschien zelfs frustrerend voor de leerling-robots dat ze geen vragen mochten stellen. Maar een echte robot kan dat natuurlijk ook niet uit zichzelf!
+
+Computers kunnen niet interpreteren. Ze voeren letterlijk iedere instructie uit die je ze geeft. De leerlingen moeten als echte programmeurs hun opdrachten dus opsplitsen in kleine, heldere stappen. Stappen die de computer kan uitvoeren. En uiteraard moeten ze de instructies zo helder mogelijk doorgeven aan de computer. 
+
+
 ## Voorbereiding
 ### Materiaal
 
