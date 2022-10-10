@@ -35,17 +35,30 @@ teacher_exclusive: false
 
 *Robot versus dier?* 
 
-Een robot wordt weleens met een dier vergeleken. Die vergelijking leidt tot interessante vragen. Heeft een dier sensoren? Met welk deel van een dier kan je de motoren van een robot vergelijken? En heeft de bedrading een dierlijk equivalent? 
+Een robot wordt weleens met een dier vergeleken. Die vergelijking leidt tot interessante vragen. Heeft een dier sensoren? Met welk deel van een dier kan je de motoren van een robot vergelijken? En heeft de bedrading een dierlijk equivalent?
 
-Het is voer voor discussie, maar de volgende interpretatie houdt wel steek: 
+Gelijkenissen: 
 
-* De rekeneenheid is het brein van de robot en komt overeen met de hersenen van een dier. Een robot kan namelijk alleen een taak uitvoeren als zijn rekeneenheid daarvoor geprogrammeerd is. 
+* Hersenen / Rekeneenheid
+De rekeneenheid vertelt de robot wat hij moet doen.
 
-* De motoren doen de robot bewegen, dus je zou ze kunnen vergelijken met de spieren van een dier. 
-* De sensoren zijn de zintuigen van de robot. Via zijn sensoren haalt de robot informatie op uit zijn omgeving. 
+* Zintuigen (ogen, oren, neus, mond en huid) / Sensoren
+Sensoren helpen een robot om te kijken, luisteren, ruiken... 
 
-* Een deel van de bedrading vormt het zenuwstelsel van de robot. Via deze draden worden signalen gestuurd: enerzijds van de rekeneenheid naar de motoren en de sensoren, en anderzijds van de sensoren naar de rekeneenheid. 
+* Spieren / Motoren
+De motoren doen de robot bewegen.
 
-* Een ander deel van de bedrading zorgt voor het transport van de nodige energie Dit zijn de bloedvaten. Dieren halen energie uit hun voeding, bijvoorbeeld de energie die ze nodig hebben om hun spieren te bewegen. Robots krijgen hun energie van hun batterijen. Ze gebruiken de elektriciteit die de batterijen leveren om hun motoren te bewegen. 
+* Hart / Batterijen
+De batterijen zorgen ervoor dat de robot voldoende energie heeft. Net zoals dieren energie halen uit hun voedsel, halen robots energie uit hun batterijen.
 
-Waarin verschilt een dier dan van een robot? Het verschil zit hem vooral in de manier waarop een dier beslissingen neemt. Een dier houdt, al dan niet bewust, rekening met de omstandigheden. Een robot beweegt alleen als zijn rekeneenheid hem daartoe beveelt. Als er iets mis is met het programma, als de betreffende sensor stuk is of als de robot over te weinig energie beschikt, dan doet de robot niet wat hij zou moeten doen. Voor een dier geldt dat niet, aangezien het dierlijk brein in staat is om oplossingen te bedenken voor problemen.
+* Bloedvaten / Bedrading
+Een deel van de kabels brengt de energie van de batterijen naar de andere onderdelen.
+
+* Zenuwstelsel / Bedrading
+Via de kabels van de robot worden signalen verstuurd. Van de sensoren naar de rekeneenheid. En van de rekeneenheid naar de motoren.
+
+
+Verschillen:
+Waarin verschilt een dier dan van een robot? 
+
+Robots nemen op een andere manier beslissingen dan dieren. Een dier houdt vanzelf rekening met de omstandigheden, maar een robot beweegt alleen als dat moet van zijn rekeneenheid. Het is de mens die de rekeneenheid vertelt wat hij moet doen. Als er iets mis is met het programma doet de robot niets. Of hij maakt fouten. Bijvoorbeeld als een sensor stuk is of als de robot over te weinig energie beschikt. Dieren zitten anders in elkaar, hun brein is in staat om zelf oplossingen te bedenken voor problemen.
